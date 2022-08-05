@@ -4,7 +4,7 @@ Console.WriteLine("Hello World!")
 ````
 <ul>
 <li><h3>👨‍💻 <strong>What am I currently working on?</strong></h3>
-<p>I'm currently working on a sandbox/simulation game and framework in <a href=""https://www.monogame.net/>Monogame</a> with: C#</p>
+<p>I'm currently working on a sandbox/simulation game and framework in <a href="https://www.monogame.net/">Monogame</a> with: C#</p>
 </li>
 <li><h3>📫 <strong>How to reach me:</strong></h3>
 <p>You can reach me on discord with: Seger#2027</p>
