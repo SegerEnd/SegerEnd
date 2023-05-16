@@ -10,7 +10,7 @@ Console.WriteLine("Hello World!")
 <p>You can reach me on discord with: Seger#2027</p>
 </li>
 <li><h3>🌱 I’m currently learning:</h3>
-<p>Creating frameworks in C#</p>
+<p>Creating applications in C++</p>
 </li>
 </ul><br>
 
