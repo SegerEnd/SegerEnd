@@ -6,9 +6,6 @@ Console.WriteLine("Hello World!")
 <li><h3>👨‍💻 <strong>What am I currently working on?</strong></h3>
 <p>I'm currently working on a sandbox/simulation game / game-engine from scratch and framework in <a href="https://www.monogame.net/">Monogame</a> with: C#</p>
 </li>
-<li><h3>📫 <strong>How to reach me:</strong></h3>
-<p>You can reach me on discord with: Seger#2027</p>
-</li>
 <li><h3>🌱 I’m currently learning:</h3>
 <p>Creating applications in C++</p>
 </li>
