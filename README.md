@@ -3,11 +3,11 @@ using System;
 Console.WriteLine("Hello World!")
 ````
 <ul>
-<li><h3>👨‍💻 <strong>What am I currently working on?</strong></h3>
-<p>I'm currently working on a sandbox/simulation game / game-engine from scratch and framework in <a href="https://www.monogame.net/">Monogame</a> with: C#</p>
+<li><h3><strong>What am I currently working on?</strong></h3>
+<p>I'm currently working on a sandbox/simulation game and game-engine from scratch with the <a href="https://www.monogame.net/">Monogame</a> Framework with: C#</p>
 </li>
 <li><h3>🌱 I’m currently learning:</h3>
-<p>Creating applications in C++</p>
+<p>Creating applications in C</p>
 </li>
 </ul><br>
 
