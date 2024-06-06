@@ -4,12 +4,15 @@ Console.WriteLine("Hello World!")
 ````
 <ul>
 <li><h3><strong>What am I currently working on?</strong></h3>
-<p>I'm currently working on a sandbox/simulation game and game-engine from scratch with the <a href="https://www.monogame.net/">Monogame</a> Framework with: C#</p>
+<p>I'm currently working on a sandbox/simulation game and engine from scratch with the <a href="https://www.monogame.net/">Monogame</a> Framework with: C#</p>
 </li>
 <li><h3>🌱 I’m currently learning:</h3>
 <p>🧊 3D Modeling & animating</p>
 <p>🎨 Creating games with Godot Engine</p>
 <p>🧑🏻‍💻 Developing applications with C</p>
+</li>
+<li><h3>☕ Contact me:</h3>
+  <a href="mailto:segerendendijk@xs4all.nl">segerendendijk@xs4all.nl</a>
 </li>
 </ul><br>
 
