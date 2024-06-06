@@ -7,7 +7,9 @@ Console.WriteLine("Hello World!")
 <p>I'm currently working on a sandbox/simulation game and game-engine from scratch with the <a href="https://www.monogame.net/">Monogame</a> Framework with: C#</p>
 </li>
 <li><h3>🌱 I’m currently learning:</h3>
-<p>Creating applications in C</p>
+<p>🧊 3D Modeling & animating</p>
+<p>🎨 Creating games with Godot Engine</p>
+<p>🧑🏻‍💻 Developing applications with C</p>
 </li>
 </ul><br>
 
