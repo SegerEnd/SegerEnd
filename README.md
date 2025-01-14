@@ -1,7 +1,3 @@
-```cs
-using System;
-Console.WriteLine("Hello World!")
-````
 <ul>
 <li><h3><strong>What am I currently working on?</strong></h3>
 <p>I'm currently working on a sandbox/simulation game and engine from scratch with the <a href="https://www.monogame.net/">Monogame</a> Framework with: C#</p>
