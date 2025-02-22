@@ -8,7 +8,7 @@
 <p>🧑🏻‍💻 Developing applications with C</p>
 </li>
 <li><h3>☕ Contact me:</h3>
-  <a href="mailto:segerendendijk@xs4all.nl">segerendendijk@xs4all.nl</a>
+  <a href="mailto:hello@segerend.nl">hello@segerend.nl</a>
 </li>
 </ul><br>
 
