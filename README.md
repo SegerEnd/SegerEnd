@@ -1,10 +1,10 @@
 <ul>
 <li><h3><strong>What am I currently working on?</strong></h3>
-<p>I'm currently working on a sandbox/simulation game and engine from scratch with the <a href="https://www.monogame.net/">Monogame</a> Framework with: C#</p>
+<p>I'm currently working on a sandbox game and engine from scratch in C++</p>
 </li>
 <li><h3>🌱 I’m currently learning:</h3>
 <p>🧊 3D Modeling & animating</p>
-<p>🎨 Creating games with Godot Engine</p>
+<p>🎨 Creating games with RayLib</p>
 <p>🧑🏻‍💻 Developing applications with C</p>
 </li>
 <li><h3>☕ Contact me:</h3>
