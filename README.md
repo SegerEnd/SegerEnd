@@ -1,6 +1,8 @@
 <ul>
 <li><h3><strong>What am I currently working on?</strong></h3>
-<p>I'm currently working on a sandbox game and engine from scratch in C++</p>
+<p>I'm currently working on a sandbox game and engine from scratch in C++
+
+  Flipper Zero app hacking & development</p>
 </li>
 <li><h3>🌱 I’m currently learning:</h3>
 <p>🧊 3D Modeling & animating</p>
